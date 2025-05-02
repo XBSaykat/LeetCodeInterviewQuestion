@@ -1,3 +1,5 @@
+package integer_problem
+
 // Asked By Microsoft [https://leetcode.com/problems/factorial-trailing-zeroes]
 fun trailingZeroes(n: Int): Int {
     var ans = 0
